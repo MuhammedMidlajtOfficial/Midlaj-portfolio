@@ -708,7 +708,12 @@ section {
 
 .form-control::placeholder {
   opacity: .5; }
-
+#phoneNumberErr{
+  font-size: 14px;
+  margin-left: 10px;
+  margin-bottom: 0;
+  color: red;
+}
 /*=====  End of FORM CONTROL  ======*/
 /*==============================
 =            CLIENT            =
